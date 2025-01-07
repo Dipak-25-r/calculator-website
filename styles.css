@@ -1,9 +1,10 @@
 body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    background-color: #f4f4f9;
-    color: #333;
+    background-image: url("https://raw.githubusercontent.com/Dipak-25-r/calculator-website/refs/heads/main/D.R.SOLANKI%20logo.webp");
+    background-size: cover; /* Adjusts the image to cover the whole page */
+    background-repeat: no-repeat; /* Prevents image from repeating */
+    background-position: center; /* Centers the image */
 }
+
 
 #calculator {
     display: inline-block;
